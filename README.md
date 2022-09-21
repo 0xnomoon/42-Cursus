@@ -27,7 +27,7 @@
 |        | [**ft_containers**](https://github.com/0xnomoon/42-Cursus-CommonCore/tree/main/ft_containerss)             |              C++               | ![](https://badge42.vercel.app/api/v2/cl8azpeq700110gk3m6y99u3e/project/2583019) |
 |   06   | [**ft_irc**](https://github.com/0xnomoon/42-Cursus-CommonCore/tree/main/ft_irc)                                      |              C++               | ![](https://badge42.vercel.app/api/v2/cl8azpeq700110gk3m6y99u3e/project/2675890) |
 |        | **Exam Rank 05**                                                                     |               C                | ![](https://badge42.vercel.app/api/v2/cl8azpeq700110gk3m6y99u3e/project/2583020) |
-|   07   | [**ft_transcendence**](https://github.com/transcendence42/ft_transcendence)          | Typescript, NestJS, PostgreSQL | ![](https://badge42.vercel.app/api/v2/cl8azpeq700110gk3m6y99u3e/project/2790474) | **9.97** |
+|   07   | [**ft_transcendence**](https://github.com/transcendence42/ft_transcendence)          | Typescript, NestJS, PostgreSQL | ![](https://badge42.vercel.app/api/v2/cl8azpeq700110gk3m6y99u3e/project/2790474) | **9.93** |
 
 
 ---
